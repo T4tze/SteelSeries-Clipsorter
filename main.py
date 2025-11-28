@@ -1,7 +1,7 @@
 import os
 import shutil
 
-main_folder = r"E:\Clips\GG"
+main_folder = r"E:\Clips\GG" # Folder where you put your clips
 video_extensions = (".mp4", ".mov", ".mkv")
 
 try:
